@@ -1,0 +1,19 @@
+.form-group{
+	margin-bottom: 20px;
+}
+#message .error-green{
+	color: green;
+}
+#message .error-red{
+	color: red;
+}
+#customer_info input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#customer_info textarea {
+  width: auto;  
+}
